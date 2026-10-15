@@ -1,0 +1,17 @@
+{
+	"name": "hackaton",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"start": "electron .",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"packageManager": "pnpm@10.28.1",
+	"devDependencies": {
+		"electron": "^44.7.2"
+	}
+}
